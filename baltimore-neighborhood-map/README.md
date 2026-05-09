@@ -1,33 +1,23 @@
 # Baltimore Neighborhood Map
 
 ## Project Overview
-This project is a beginner geospatial mapping project created using QGIS.
-
-The goal of the project is to visualize neighborhood boundaries and geographic organization across Baltimore, Maryland.
-
----
+This project visualizes neighborhood boundaries in Baltimore using QGIS and public GIS data.
 
 ## Skills Demonstrated
-- Spatial data visualization
-- Layer styling
+- Vector layer loading
+- Polygon styling
 - Map labeling
-- Cartographic layout design
-- QGIS project management
-
----
-
-## Data Sources
-- OpenStreetMap
-- Baltimore Open Data
-
----
+- Print layout design
+- Image and PDF export
 
 ## Tools Used
 - QGIS
 - GeoJSON
-- OpenStreetMap Basemap
+- Baltimore Open Data
 
----
+## Data Source
+Baltimore Open Data Portal
 
-## Project Status
-In Progress
+## Final Map
+
+![Baltimore Neighborhood Map](exports/baltimore-neighborhood-map.png)
